@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alex Ndambuki</h1>
-<h3 align="center">A Resolute Data Analyst.</h3>
+<h1 align="center">📊 Data Analyst | 📈 Python | 📉 SQL | 🧮 Data Visualization</h1>
+ <h1 Hi 👋, I'm Alex Ndambuki</h1>
+<h3 align="center">A Resolute Data Analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Python and SQL, I specialize in extracting, cleaning, and analyzing data to drive informed decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexndambuki&label=Profile%20views&color=0e75b6&style=flat" alt="alexndambuki" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ndambukilex_xls" target="blank"><img src="https://img.shields.io/twitter/follow/ndambukilex_xls?logo=twitter&style=for-the-badge" alt="ndambukilex_xls" /></a> </p>
 
-- 🔭 I’m currently working on **Building Actionable Data Insights.**
+- 🔭 I’m currently working on **Tableau Visualisations.**
 
 - 🌱 I’m currently learning **Tableau,R**
 
