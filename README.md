@@ -1,4 +1,3 @@
-<h1 align="center">📊 Data Analyst | 📈 Python | 📉 SQL | 🧮 Data Visualization</h1>
  <h1 Hi 👋, I'm Alex Ndambuki</h1>
 <h3 align="center">A Resolute Data Analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Python and SQL, I specialize in extracting, cleaning, and analyzing data to drive informed decision-making.</h3>
 
