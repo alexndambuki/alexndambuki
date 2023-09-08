@@ -1,5 +1,5 @@
  <h1 Hi 👋, I'm Alex Ndambuki</h1>
-<h3 align="center">A Resolute Data Analyst with a passion for transforming raw data into actionable insights. With a strong foundation in Python, SQL, Excel, and Power BI, I specialize in extracting, cleaning, and analyzing data to drive informed decision-making.</h3>
+<h3 align="center">A Resolute Data Analyst. Passionate in transforming raw data into actionable insights. Solid foundation in SQL, Excel, and Power BI. specializing in extracting, cleaning, and analyzing data to drive informed decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexndambuki&label=Profile%20views&color=0e75b6&style=flat" alt="alexndambuki" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alndambuki@gmail.com**
 
-- ⚡ Fun fact **Life is wonderful and beautiful, the struggles and tribulations make it a bit better, make you mindful of the fact that we won't be here for long and that makes desires powerful.**
+- ⚡ Fun fact **Life is beautiful. The struggles and tribulations make it better, Make you mindful of the fact that we won't be here for long and that makes desires powerful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
