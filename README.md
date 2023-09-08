@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Tableau,R**
 
-- 💬 Ask me about **SQL,Excel.**
+- 💬 Ask me about **SQL,Excel,PowerBi.**
 
 - 📫 How to reach me **alndambuki@gmail.com**
 
-- ⚡ Fun fact **Life is wonderful and beautiful, the struggles and tribulations make it a bit better, makes you mindful of the fact that we wont be here for long and that makes desires powerful.**
+- ⚡ Fun fact **Life is wonderful and beautiful, the struggles and tribulations make it a bit better, make you mindful of the fact that we won't be here for long and that makes desires powerful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
