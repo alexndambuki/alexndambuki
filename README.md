@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alndambuki@gmail.com**
 
-- ⚡ Fun fact **Fun fact Life is beautiful. The struggles and tribulations make it better, Make you mindful of the fact that we won't be here for long and that makes desires powerful.**
+- ⚡ Fun fact **Life is beautiful. The struggles and tribulations make it better, Make you mindful of the fact that we won't be here for long and that makes desires powerful.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
